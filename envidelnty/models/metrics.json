@@ -1,0 +1,6 @@
+{
+  "rmse_log": 0.0934857962426376,
+  "rmse_orig_no_corr": 18396.10704050612,
+  "rmse_orig_biascorr": 18345.21572478309,
+  "sigma_resid_log": 0.057718142090058565
+}
